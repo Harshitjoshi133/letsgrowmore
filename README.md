@@ -13,23 +13,23 @@ Welcome to the Java Virtual Internship Projects repository! This repository cont
 
 ## Introduction
 
-This repository hosts a series of Java projects that simulate real-world scenarios, allowing you to apply your programming knowledge in a practical context. By completing these projects, you will gain proficiency in various Java concepts, such as object-oriented programming, data structures, algorithms, and more.
+This repository hosts a variety of Java projects that simulate real-world scenarios, allowing you to apply your programming knowledge in practical contexts. By completing these projects, you will gain proficiency in various Java concepts, such as object-oriented programming, data structures, algorithms, and user interface development.
 
 ## Projects
 
 Here are the projects included in this repository:
 
-1. **Project 1: Student Management System**
-   Build a console-based application to manage student records, including their information, grades, and enrollment status.
+1. **Currency Converter**
+   Build an application that allows users to convert between different currencies using real-time exchange rates. Users can input an amount in one currency and get the equivalent amount in another currency.
 
-2. **Project 2: Online Shopping Platform**
-   Create a simulated online shopping system with user authentication, product catalog, shopping cart functionality, and order processing.
+2. **Scientific Calculator**
+   Create a comprehensive scientific calculator with various functions including basic arithmetic, trigonometry, logarithms, and more. Implement a user-friendly interface to interact with the calculator's features.
 
-3. **Project 3: Banking System Simulation**
-   Develop a banking application that allows users to create accounts, perform transactions, and view their balance.
+3. **Text Editor**
+   Develop a simple text editor that enables users to create, edit, and save text files. Implement features such as text formatting, syntax highlighting, and the ability to open and save files in different formats.
 
-4. **Project 4: Task Tracker App**
-   Build a task tracking application that enables users to create, update, and organize tasks with different priorities and deadlines.
+4. **Tic-Tac-Toe Game**
+   Build a console-based Tic-Tac-Toe game for two players. Implement the game logic, user input handling, and a mechanism to determine the winner or a draw.
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ To start working on these projects, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/java-virtual-internship.git
+   gh repo clone Harshitjoshi133/letsgrowmore
    ```
 
 2. Navigate to the specific project's directory that you want to work on:
